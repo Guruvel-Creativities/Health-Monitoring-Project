@@ -1,0 +1,8 @@
+
+
+#define BLYNK_TEMPLATE_NAME "Heart Rate Dashboard"
+#define BLYNK_AUTH_TOKEN "pZz2zTdeRpBy9zKsm4EKTin4ykvcgFKi"
+pZz2zTdeRpBy9zKsm4EKTin4ykvcgFKi
+
+#define WIFI_SSID     "Health Project"
+#define WIFI_PASSWORD "Project@123"
